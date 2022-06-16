@@ -19,7 +19,7 @@
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
-  --bs-primary: #F6E05E;
+  --bs-primary: #013766;
   --bs-secondary: #343a40;
   --bs-success: #37BC9B;
   --bs-info: #3BAFDA;
@@ -2865,9 +2865,9 @@ fieldset:disabled .btn {
 }
 
 .btn-primary {
-  color: #000;
-  background-color: #F6E05E;
-  border-color: #F6E05E;
+  color: #fff;
+  background-color: #013766;
+  border-color: #013766;
 }
 
 .btn-primary:hover {
